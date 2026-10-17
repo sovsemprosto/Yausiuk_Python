@@ -1,0 +1,9 @@
+Task 2 — Bracket Sequence
+
+The sequence `[((())()(())]]` is incorrect.
+
+The sequence contains an unmatched opening parenthesis `(` and an extra closing square bracket `]`.
+
+To correct it, replace the first of the two final closing square brackets `]` with a closing parenthesis `)`.
+
+Correct sequence: `[((())()(()))]`
